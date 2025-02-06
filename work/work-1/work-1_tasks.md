@@ -1,0 +1,3 @@
+- [ ] Review Budget for Marketing Campaign
+- [ ] Finalize and Send Out Weekly Report 📅 2025-02-07
+- [ ] Call with Vendor Regarding Product Order ⏳ 2025-04-16
