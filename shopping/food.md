@@ -1,6 +1,7 @@
 >[!todo]+  FOOD
 >```tasks
 not done
+((no due date) AND (no scheduled date)) OR (due before in 1 weeks) OR (scheduled before tomorrow)
 hide recurrence rule
 hide task count
 hide backlink
