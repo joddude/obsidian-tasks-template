@@ -1,5 +1,5 @@
 # obsidian-tasks-template
-This is an example of how you can organize your work with tasks and shopping lists in Obsidian, if you don't want to use daily notes. Convenient to use on both desktop and mobile devices.
+This is an example of how you can organize your work with tasks and shopping lists in Obsidian without daily notes. Convenient to use on both desktop and mobile devices.
 
 ## Screenshots
 | ![](Screenshot-1.jpg) | ![](Screenshot-2.jpg) |
