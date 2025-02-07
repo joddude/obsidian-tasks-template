@@ -6,11 +6,11 @@ This is an example of how you can organize your work with tasks and shopping lis
 | --------------------- | --------------------- |
 
 ## How to use
-- Install Obsidian: https://obsidian.md/
-- Install Tasks plugin: https://publish.obsidian.md/tasks/Introduction
 - Download ZIP from this repository
 - Unzip it
+- Install Obsidian: https://obsidian.md/
 - Open unziped folder as vault in Obsidian
+- Install Tasks plugin: https://publish.obsidian.md/tasks/Introduction
 
 ## Notes
 - File 'start' used as startpage with next tasks and links to other interested files.
