@@ -15,10 +15,10 @@ This is an example of how you can organize your work with tasks and shopping lis
 ## Notes
 - File 'start' used as startpage with next tasks and links to other interested files.
 - File 'inbox' used for quick notes and tasks which will later be moved to other files, usually it is empty.
-- Sections 'NOW' and 'NEXT' dont show tasks without any date.
+- Sections 'NOW' and 'NEXT' show tasks with any date from folders 'tasks' and 'work'.
+- From 'work' folder, only tasks from files with 'tasks' in filename.
 - Tasks with due date appear on 'NOW' section a week before the date. Tasks with other dates at it day. Same rules for shopping lists.
 - Tasks with due date appear on 'NEXT' section one month before the date. Tasks with other dates - two weeks before the date.
-- Sections 'NOW' and 'NEXT' not show all tasks from 'work' folder, only tasks from files with 'tasks' in filename.
 
 ## Thank you for using
 If you like this template
