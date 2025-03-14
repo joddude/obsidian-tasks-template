@@ -22,4 +22,4 @@ This is an example of how you can organize your work with tasks and shopping lis
 ## Thank you for using
 If you like this template, please consider donating. 
 
-https://donatello.to/joddude
+https://ko-fi.com/joddude
