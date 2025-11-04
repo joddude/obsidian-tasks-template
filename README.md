@@ -8,7 +8,7 @@ This is an example of how you can organize your work with tasks and shopping lis
 ## How to use
 - Clone this repository or download ZIP and unzip it.
 - Install Obsidian: https://obsidian.md/
-- Open unziped folder as vault in Obsidian
+- Open folder as vault in Obsidian
 - Install Tasks plugin: https://publish.obsidian.md/tasks/Introduction
 
 ## Notes
